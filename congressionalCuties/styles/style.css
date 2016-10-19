@@ -1,0 +1,23 @@
+.legislator {
+display: inline-block;
+margin: 3%;
+background: rgba(155,0,200,.5);
+width: 22%;
+}
+
+
+
+
+
+
+input {
+	margin-left: 50%;
+	margin-right: 50%;
+	transform: translateX(-50%);
+}
+
+
+li {
+	font-size: 10px;
+}
+
